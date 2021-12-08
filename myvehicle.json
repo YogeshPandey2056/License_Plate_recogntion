@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "myvehicle-001",
+  "private_key_id": "ad1539a353fbc5cf1959b90efcfcfd2128afdd4f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/keGxjBeRxaPU\nmCo9AJ9+4H9Oy4YBe0pg1PzRFTCVi6UtrnFWpvx/nBH72qhEBAc75wsTWcbrHPfM\nrJ5dbIJK1II7TQs7p3HJaB6EQ4x7xCBAlRZvuneJSGOKZ2b8NGxBGtghyGpQOEiq\nCTW2kPWFFBKNEjc9NsgY6TJad4//ZNVig3FoIbiqdsqoJQnz/XsZLvx1MhcfPs7T\nR4R+aZpIuQleoNepr8F+M9B+jHTL6qso7ZToY/IELogOQV7zlxqStzZIOR8lFU2C\nmxHy85rOCOwxtT79ZlgLRMxCZAxKejyXtciqdmvlJ08i7uSIUaULzEd+kCMh/dxZ\nSl5UFz77AgMBAAECggEAMhajE8ik2vz5ppr4pEWW7lYlg0UsrxN88Y+O4N4w+1Dt\naeHMCZOUvorgmuDjkREakRuKZk9Zdtz2n6HcsGGwOX+R445z6u+PjVE3dW6x+yRf\nKHOyz5jKK29tc2Ew6K2ORoGN1FtyDLKCsU7CKA+D2n1SkmcaYVuC+xxyCXxsfqJ6\nvosb9a30yOPXYiwGmKO0L6/4X4lD/dNhaBSYN3G8+FSVDZEPspQyumMd0ueinG8H\nlkGcTPdfMpu3Ze8z7N1cTW83IwBLNei12AOekdb5YgJvI/L27tSTno7b0oU4ELnV\nUMZDzYkLuhSSz79tHL78R5u/k8cAZorFInP/Xc89UQKBgQD2c5r32whHJghraOlK\njvbIaRpdX4BpzYl97E/LRBZ5qocBpXbPAWomCj/veTScSHqMO7Vlb8NJ/YccYy71\nZZaYXymXb2b/0Fie1ClLWZInmEcQMHWgDNdRqMNvclmJCg2JlV0ihWxAWNlyP+G7\ntub9aZmgwy3Tg2cxyRKZUj7B8QKBgQDG/fCOomHfMTjryPTvzAQrFr6AF5beA490\niqPY7exs6B+8+j9bOij6ZMxxP7S0GMYIEIbP/XoG9f1voet5VmgsSTVF88XrwYeJ\ns8N3DZa8nd4bs8T5i3nqc/KjMhM2vRNtGr/IzOerminrX6kHJCqZq8YYqX4U0s7Q\njUH/nmPjqwKBgGBxEN2ZOv4MphLSNSjWFUCL0KNlcez1X66FQRx8AoeN8dL1Gy8a\nkJ1eOXLO7YWS31HtM6kEOVnE+pBjR8cEABCUfMQj9hx5PZS51YcFACq6bmSpcf41\nyDTOY9xC1ULJSk7iwlV1/MyZeE47LWy1wGK+Zj4A4vf4XfOficWx55khAoGBALrx\nnIpTkUD+XCxfCYUylIPqhSOPhcOjcqUZDl7g/qk91XtTWiwZUqASDGMkZ15+m6S9\n6fkCeB6MAQFcC/1dKNbaG/tQzhLzKKM8R5jUIlWmtiAuXhHWb73MGhopFBXrwZFR\nfPVnUwpK9bDTmNdFqePelWdb7EAh3/vbiTJdGhirAoGBALu5na9G43QWS2p/AWij\nFg0xpVM/rBKesGVNNRNtIe/rZlaQnZk5tpE6nZlzcGByrc9t4d3Y5JzmUcrn4jrf\nKyivQpeTUkE7eKuFUtfB1X5STmqIjSxDwpr8G8Uy/7TkyblY1j8gde/SYx53q5Bj\nmUWK9iiBb6QAfkn5VXbqPZ9z\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi@myvehicle-001.iam.gserviceaccount.com",
+  "client_id": "113017273184708474741",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi%40myvehicle-001.iam.gserviceaccount.com"
+}
